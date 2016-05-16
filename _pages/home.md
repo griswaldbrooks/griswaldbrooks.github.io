@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /
+categories: home
 ---
 
 ![Nao and I][griz-nao-picture]

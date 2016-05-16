@@ -1,33 +1,18 @@
 ---
 layout: page
 title:  "Publications"
-categories: Test Category
+categories: topmost
 permalink: /publications/
 ---
 
-Here is a test page.
+- [G. Brooks, P. Krishnamurthy and F. Khorrami, **“Low-profile crawling for humanoid motion in tight
+spaces”**, Intelligent Robots and Systems (IROS), 2015 IEEE/RSJ International Conference on,
+Hamburg, 2015, pp. 5930-5935.](http://dx.doi.org/10.1109/IROS.2015.7354220)
 
-![Here's a picture][nao-picture]
+- [G. Brooks, P. Krishnamurthy and F. Khorrami, **“A multi-gait approach for humanoid navigation in
+cluttered environments”**, The 26th Chinese Control and Decision Conference (2014 CCDC),
+Changsha, 2014, pp. 2708-2713.](http://dx.doi.org/10.1109/CCDC.2014.6852631)
 
-{% highlight python %}
-def print_hi(name)
-  print 'Hi, ' + str(name)
-
-print_hi('Tom')
-{% endhighlight %}
-
-{% highlight c++ %}
-void print_hi(const std::string& name)
-{
-  std::cout << "Hi, " << name << std::endl;
-}
-{% endhighlight %}
-
-Check out the [Fetch Robotics][fetch] to see somewhere I used to work.
-You can see my code at [my GitHub repo][griswaldbrooks-gh].
-Checkout my [robot filters][robot-filters-gh] project.
-
-[fetch]:             http://fetchrobotics.com
-[griswaldbrooks-gh]: https://github.com/griswaldbrooks
-[robot-filters-gh]:  https://github.com/griswaldbrooks/robot_filters
-[nao-picture]: {{site.url}}/_images/nao_arm_vector_z_y1.png
+- [G. Brooks, P. Krishnamurthy and F. Khorrami, **“Humanoid robot navigation and obstacle
+avoidance in unknown environments”**, Control Conference (ASCC), 2013 9th Asian, Istanbul,
+2013, pp. 1-6.](http://dx.doi.org/10.1109/ASCC.2013.6606392)
