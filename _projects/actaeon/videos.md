@@ -1,7 +1,6 @@
 ---
 title: "Actaeon - Videos"
 categories: actaeon
-folder: actaeon
 ---
 
 Video of the first official run of Actaeon v2 at the 2011 Trinity College Fire Fighting Home Robot Contest.

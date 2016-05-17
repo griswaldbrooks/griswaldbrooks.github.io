@@ -7,12 +7,7 @@ image_desc: "Actaeon v2"
 project_desc: "Mobile robot built for the Trinity College Fire Fighting Home Robot Contest."
 ---
 
-{{page.categories}}
-
-<img style="float: right; padding: 0px 0px 0px 25px" 
-     src="{{site.baseurl}}/_projects/actaeon/actaeon_cropped.jpg" 
-     alt="Actaeon v2 and Trinity College Fire Fighting Home Robot Contest 2011"
-     width="375">
+{% include home_picture.html picture_path='/_projects/actaeon/actaeon_cropped.jpg' picture_desc='Actaeon v2 and Trinity College Fire Fighting Home Robot Contest 2011'%}
 
 Actaeon was an autonomous mobile robot I built as an undergraduate for the
 [Trinity College Fire Fighting Home Robot Contest](http://www.trincoll.edu/events/robot/).
@@ -39,7 +34,6 @@ Chiron was the name of my previous quadupedal robot, and Artemis was the name of
 I collaborated with [Bilal Gill](https://www.linkedin.com/in/bilal-gill-4a30b058) on in 2013.
 
 Code for the project can be found [here](https://github.com/griswaldbrooks/Actaeon-Project).
-
 
 Videos can be found [here]({{ site.baseurl }}/projects/actaeon/videos/).
 

@@ -1,7 +1,6 @@
 ---
 title: "Actaeon - Images"
 categories: actaeon
-folder: actaeon
 ---
 
 

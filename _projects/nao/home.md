@@ -7,23 +7,17 @@ image_desc: "Cool Nao"
 project_desc: "Nao Humanoid Platform used for experimentation with navigation and crawling."
 ---
 
-Here is a test page.
+{% include home_picture.html picture_path='/_projects/nao/cool_nao2.jpg' picture_desc='Cool Nao'%}
 
-![Here's a picture][nao-picture]
+For my graduate research and Master's Thesis, I worked with the [Nao Humanoid Platform](https://www.aldebaran.com/en/cool-robots/nao).
 
-Navigation
-[https://github.com/griswaldbrooks/naonav](https://github.com/griswaldbrooks/naonav)
+I programmed Nao to navigate with [GODZILA](http://dx.doi.org/10.1109/CCDC.2014.6852631) and to [crawl](http://dx.doi.org/10.1109/IROS.2015.7354220).
 
-Crawling
-[https://github.com/griswaldbrooks/naocrawl](https://github.com/griswaldbrooks/naocrawl)
+In 2015, I presented at [IROS](http://www.iros2015.org/) on my [crawling algorithm](https://www.youtube.com/embed/leQpX1VDJok).
 
-My talk about the crawling.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/leQpX1VDJok" frameborder="0" allowfullscreen></iframe>
+Videos of my work with Nao can be viewed [here]({{ site.baseurl }}/projects/nao/videos/)
 
-Nao walking around.
-<iframe width="420" height="315" src="https://www.youtube.com/embed/wzH-UDS3Nsc" frameborder="0" allowfullscreen></iframe>
+Code from the project can be viewed on my github:
 
-Simulation I wrote in MATLAB of Nao, doing basic GODZILA/Potential Field
-<iframe width="420" height="315" src="https://www.youtube.com/embed/uAWfpb4VfAQ" frameborder="0" allowfullscreen></iframe>
-
-[nao-picture]: {{site.baseurl}}/_images/nao_arm_vector_z_y1.png
+  - [Navigation](https://github.com/griswaldbrooks/naonav)
+  - [Crawling](https://github.com/griswaldbrooks/naocrawl)

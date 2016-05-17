@@ -7,21 +7,19 @@ image_desc: "Simulation of Nao using sonars to reach goal."
 project_desc: "MATLAB simulator for vehicles in planar environments."
 ---
 
+{% include home_picture.html picture_path='/_projects/trinity_simulator/sim_fig1.jpg' picture_desc=''%}
 
+In my undergrad, I wrote a MATLAB simulator to tests various algorithms for the 
+[Trinity College Fire Fighting Home Robot Contest](http://www.trincoll.edu/events/robot/).
+It is a kinematic simulation of a planar mobile robot that can receive linear and angular
+velocity commands. The robot navigates a parameterically constructed environment and
+uses its beam model virtual sensors to understand the world. The beam number, width,
+and ranges are all configurable.
 
-I wrote a simulator for the project in MATLAB that was used to test algorithms.
+While originally intended for use with the Trinity Fire Fighting contest, is was also
+used in my undergraduate research to test potential field navigation algorithms for
+the [Nao]({{site.baseurl}}/projects/nao).
+
+Videos of various simulations can be seen [here]({{site.baseurl}}/projects/trinity_simulator/videos)
+
 The last stable release can be found [here](https://github.com/griswaldbrooks/TrinitySimulator/tree/master/Stable%20Release%202.0).
-
-Using it for Nao.
-<iframe width="420" height="315" src="https://www.youtube.com/embed/uAWfpb4VfAQ" frameborder="0" allowfullscreen></iframe>
-
-World reduced laser scan view.
-<iframe width="420" height="315" src="https://www.youtube.com/embed/8N_Uaqesso8" frameborder="0" allowfullscreen></iframe>
-
-Robot view, reduced number of lasers, only 3 lasers used, wall follow.
-<iframe width="420" height="315" src="https://www.youtube.com/embed/7Sklq7nsMsA" frameborder="0" allowfullscreen></iframe>
-
-Three IR beam model.
-<iframe width="420" height="315" src="https://www.youtube.com/embed/_f_l_9nRHDo" frameborder="0" allowfullscreen></iframe>
-
-[https://github.com/griswaldbrooks/TrinitySimulator/tree/master/Stable%20Release%202.0](https://github.com/griswaldbrooks/TrinitySimulator/tree/master/Stable%20Release%202.0)
