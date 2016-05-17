@@ -6,6 +6,8 @@ image_desc: "Actaeon v2"
 project_desc: "Mobile robot built for the Trinity College Fire Fighting Home Robot Contest."
 ---
 
+{{page.categories}}
+
 <img style="float: right; padding: 0px 0px 0px 25px" 
      src="{{site.baseurl}}/_projects/actaeon/actaeon_cropped.jpg" 
      alt="Actaeon v2 and Trinity College Fire Fighting Home Robot Contest 2011"

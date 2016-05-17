@@ -8,7 +8,8 @@ permalink: /projects/
 
 <ul>
 {% for page in site.projects %}
-  {% if page.categories contains "projects" %}
+  n{{page.categories}}n
+  {% if page.categories == 'projects' %}
 <li>
     {% if page.image %}
 <a href="{{ site.baseurl }}{{ page.url }}">
