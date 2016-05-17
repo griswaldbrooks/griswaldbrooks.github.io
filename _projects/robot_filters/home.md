@@ -1,5 +1,6 @@
 ---
 title:  "Robot Filters"
+nobility: home
 permalink: /projects/robot_filters/
 image: robot_filters_cropped.png
 image_desc: "Mapping Simulation"

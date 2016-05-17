@@ -1,8 +1,8 @@
 ---
 title: "Actaeon - Images"
 categories: actaeon
+folder: actaeon
 ---
 
-{{page.categories}}
 
 {% include image_gallery.html image_path='projects/actaeon/images/' %}

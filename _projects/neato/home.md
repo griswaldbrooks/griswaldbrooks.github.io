@@ -1,5 +1,6 @@
 ---
 title: "Neato"
+nobility: home
 permalink: /projects/neato/
 image: neato_cropped.jpg
 image_desc: "Botvac"

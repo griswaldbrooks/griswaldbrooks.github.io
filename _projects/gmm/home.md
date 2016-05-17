@@ -1,5 +1,6 @@
 ---
 title:  "General Mobile Manipulator"
+nobility: home
 permalink: /projects/gmm/
 image: gmm_cropped.jpg
 image_desc: "GMM"

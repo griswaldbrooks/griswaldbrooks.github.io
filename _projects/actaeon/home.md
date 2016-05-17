@@ -1,5 +1,6 @@
 ---
 title:  "Actaeon"
+nobility: home
 permalink: /projects/actaeon/
 image: actaeon_cropped.jpg
 image_desc: "Actaeon v2"

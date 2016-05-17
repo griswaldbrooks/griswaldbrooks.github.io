@@ -1,5 +1,6 @@
 ---
 title: "Trinity Simulator"
+nobility: home
 permalink: /projects/trinity_simulator/
 image: sim_fig1_cropped.jpg
 image_desc: "Simulation of Nao using sonars to reach goal."

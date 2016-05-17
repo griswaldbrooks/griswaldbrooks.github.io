@@ -1,5 +1,6 @@
 ---
 title:  "Autopilot"
+nobility: home
 permalink: /projects/autopilot/
 image: AP_top1_cropped.jpg
 image_desc: "Autopilot version 2.3 with case."

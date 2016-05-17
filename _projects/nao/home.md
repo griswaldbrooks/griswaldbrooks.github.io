@@ -1,5 +1,6 @@
 ---
 title: "Nao"
+nobility: home
 permalink: /projects/nao/
 image: cool_nao2_cropped.jpg
 image_desc: "Cool Nao"

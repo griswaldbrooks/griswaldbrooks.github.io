@@ -1,5 +1,6 @@
 ---
 title:  "Reinforcement Learning Crawler"
+nobility: home
 permalink: /projects/rl-crawler/
 image: rl-crawler_cropped.jpg
 image_desc: "Crawler"

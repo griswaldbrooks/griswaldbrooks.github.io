@@ -1,5 +1,6 @@
 ---
 title:  "VIPER AUV"
+nobility: home
 permalink: /projects/auv/
 image: VIPER_cropped.jpg
 image_desc: "VIPER AUV"

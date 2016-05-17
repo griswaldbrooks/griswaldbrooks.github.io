@@ -1,5 +1,6 @@
 ---
 title:  "MINQ"
+nobility: home
 permalink: /projects/minq/
 image: minq_cropped.jpg
 image_desc: "Mini Quadrotor"
