@@ -11,7 +11,7 @@ linkedin_username: griswaldbrooks
 # Build settings
 markdown: kramdown
 
-include: ["_pages", "_images", "downloads"]
+include: ["_pages", "_images", "downloads", "_projects"]
 
 collections:
  projects: # The collection where I keep all my robot projects.

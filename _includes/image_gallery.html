@@ -1,0 +1,8 @@
+{% for image in site.static_files %}
+    {% if image.path contains include.image_path %}
+<a href="{{ site.baseurl }}{{ image.path }}">
+<img style="float: left; padding: 5px 5px 5px 5px" 
+     src="{{ site.baseurl }}{{ image.path }}" alt="image" width="175"/>
+</a>
+    {% endif %}
+{% endfor %}
