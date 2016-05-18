@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Resume"
+title:  "CV"
 categories: topmost
 permalink: /resume/
 ---
@@ -14,19 +14,20 @@ permalink: /resume/
 ## Education <a name="education"></a>
 ---
 
-# NYU School of Engineering
+# [NYU School of Engineering](http://engineering.nyu.edu/)
 
 Masters of Science in Electrical Engineering  
 May 2015 | Brooklyn, NY  
-Conc. in Controls and Robotics
+Concentration in Controls and Robotics
 
 Bachelors of Science in Computer Engineering  
 May 2013 | Brooklyn, NY  
 Cum Laude
 
-# LRCC
+# [Lakes Region Community College](http://www.lrcc.edu/)
 Associate of Science in Computer Technologies  
 Dec 2009 |  Laconia, NH
+President's List
 
 
 ## Skills <a name="skills"></a>
@@ -48,7 +49,7 @@ EagleCAD, Circuit Design, PCB Design, SMD Soldering
 Solidworks, 3D Printing, Machining, Plastic Casting
 
 # Misc
-Rviz, Git, Github, V-REP, Virtualbox
+Rviz, Git, Github, V-REP, Virtualbox, LaTeX
 
 
 ## Experience <a name="experience"></a>
@@ -59,8 +60,7 @@ San Jose, CA | July 2015 – Apr 2016
 
 - Developed algorithms for LIDAR-based tracking of people and mobile robots using EKF.
 - Authored dynamically loadable modular EKF library using ROS pluginlib.
-- Increased robustness of robot charge docking system through improvements in 
-      perception, navigation, and recovery behaviors.
+- Increased robustness of robot charge docking system through improvements in perception, navigation, and recovery behaviors.
 - Conducted peer code reviews and maintained code base using git and github tools.
 - Technologies used: Computational Geometry, EKF, C++, Python, ROS, Git, LIDAR.
 
@@ -69,8 +69,7 @@ Brooklyn, NY | May 2012 – Jun 2015
 
   - Wrote unit testing code and peripheral driver libraries in C.
   - Designed proprietary autopilot systems using EDA software used for multiple autonomous vehicles.
-  - Designed chassis, shells, and housings in Solidworks and had them produced using multiple rapid prototyping 
-    and traditional machining techniques.
+  - Designed chassis, shells, and housings in Solidworks and had them produced using multiple rapid prototyping and traditional machining techniques.
   - Integrated and tested autonomous vehicle electronics and mechanisms.
   - Technologies used: Linear Filters, C, EDA, CAD, ARM, IMU, UART, I2C, CAN, Op Amps.
 
@@ -97,14 +96,12 @@ Laconia, NH | Oct 2008 – Dec 2009
 
   - Administered, supported, and troubleshot Active Directory policy and permissions for local and remote sites.
   - Successfully managed full life cycle design and development of new City website.
-  - Spearheaded development and implementation of policies, procedures and guidelines providing instruction on  
-    operation and usage of Web site’s content management system.
+  - Spearheaded development and implementation of policies, procedures and guidelines providing instruction on operation and usage of Web site’s content management system.
 
 # **US Navy** | Electronics Technician
-Sep 2001 – Dec 2007
+Various Locations | Sep 2001 – Dec 2007
 
-  - Performed installation, repair, and maintenance of communications equipment while supervising and mentoring 
-    teams of junior technicians.
+  - Performed installation, repair, and maintenance of communications equipment while supervising and mentoring teams of junior technicians.
   - Drove design and development of wireless LAN comprised of seven access points and three gateways.
   - Played crucial role in design, testing and implementation of unicast and multicast protocols via a satellite WAN.
 
