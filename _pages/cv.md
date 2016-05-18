@@ -1,6 +1,7 @@
 ---
 layout: page
-title:  "CV"
+title:  "Curriculum Vitae"
+short_title:  "CV"
 categories: topmost
 permalink: /cv/
 ---
