@@ -2,7 +2,7 @@
 layout: page
 title:  "CV"
 categories: topmost
-permalink: /resume/
+permalink: /cv/
 ---
 [Download Resume]({{site.baseurl}}/downloads/Griswald-Brooks-Resume.pdf)
 
@@ -26,7 +26,7 @@ Cum Laude
 
 # [Lakes Region Community College](http://www.lrcc.edu/)
 Associate of Science in Computer Technologies  
-Dec 2009 |  Laconia, NH
+Dec 2009 |  Laconia, NH  
 President's List
 
 
