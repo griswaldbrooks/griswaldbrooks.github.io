@@ -9,8 +9,8 @@ project_desc: "Basic Reinforcement Learing Crawling Robot."
 
 {% include home_picture.html picture_path='/_projects/rl-crawler/rl-crawler.jpg' picture_desc='Crawler'%}
 
-As a graduate project for my Reinforcement Learning class, I decided to build the classical
-reinforcement learning crawling robot.
+As a graduate project for my Reinforcement Learning class, I decided to build the 
+[classical reinforcement learning crawling robot](http://www.tokic.com/www/tokicm/crawlingrobot.php.html).
 The canonical system consists of a two-degree-of-freedom arm, a passive base, and some sensor
 that can be used to tell the robot if it has moved and generally in what direction.
 The robot has an arm with such low degrees of freedom in order to keep the dimensionality

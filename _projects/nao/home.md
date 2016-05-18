@@ -29,7 +29,7 @@ Videos of my work with Nao can be viewed [here]({{ site.baseurl }}/projects/nao/
 continuous navigation algorithm based on the potential field idea. In contrast to some potential field formulations
 which work on the range and bearing of objects in the environment, GODZILA uses the sensor information about occlusion
 locations directly in order to formulate navigation commands. It is a memoryless algorithm and does not attempt to
-build a map of the environment making it very lightweight in terms of both computation and memory.
+build a map of the environment, making it very lightweight in terms of both computation and memory.
 It can be implemented
 on a variety of vehicles and is suited for the cases where a low computational power microcontroller is utilized.
 It has three components which are an optimization cost, a straight line planner, 
@@ -39,12 +39,13 @@ Code from the project can be viewed [here](https://github.com/griswaldbrooks/nao
 
 # Projected Profile Crawl Gait
 
-The Projected Profile crawling algorithm is a kinematic gait based on the idea that
-a can be gaited executed in a two mode process, viewing the robot as a single closed
-chain manipulator for moving the center of mass, and as an open chain manipulator
-for positioning the arms and legs. This allowed an analytical solution to the problem of
+The Projected Profile algorithm is a kinematic gait based on the idea that crawling
+can be executed in a two mode process. First, viewing the robot as an open chain manipulator
+for positioning the arms and legs and then as a single closed
+chain manipulator for moving the center of mass. 
+This allowed an analytical solution to the problem of
 crawling to be developed for a 25 degree-of-freedom system.
-Later, taking advantage under-utilized degrees-of-freedom, a genetic algorithm was used
+Later, taking advantage of under-utilized degrees-of-freedom, a genetic algorithm was used
 to improve the energy efficiency of the nominal gait by a factor of six.
 
 
