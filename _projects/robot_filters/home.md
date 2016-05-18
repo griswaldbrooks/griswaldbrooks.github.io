@@ -2,12 +2,12 @@
 title:  "Robot Filters"
 nobility: home
 permalink: /projects/robot_filters/
-image: robot_filters_cropped.png
+image: Robot_filters_cropped.png
 image_desc: "Mapping Simulation"
 project_desc: "Library of filters for robot applications."
 ---
 
-{% include home_picture.html picture_path='/_projects/robot_filters/robot_filters_cropped.png' picture_desc=''%}
+{% include home_picture.html picture_path='/_projects/robot_filters/Robot_filters.png' picture_desc=''%}
 
 The robot filters library is a project to build various filters useful in robotics applications.
 These include:
