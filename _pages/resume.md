@@ -55,7 +55,7 @@ Rviz, Git, Github, V-REP, Virtualbox, LaTeX
 ## Experience <a name="experience"></a>
 ---
 
-# **Fetch Robotics** | Robotics Engineer
+# [**Fetch Robotics**](http://fetchrobotics.com/) | Robotics Engineer
 San Jose, CA | July 2015 – Apr 2016
 
 - Developed algorithms for LIDAR-based tracking of people and mobile robots using EKF.
@@ -64,7 +64,7 @@ San Jose, CA | July 2015 – Apr 2016
 - Conducted peer code reviews and maintained code base using git and github tools.
 - Technologies used: Computational Geometry, EKF, C++, Python, ROS, Git, LIDAR.
 
-# **Farco Technologies** | Robotics Engineer
+# [**Farco Technologies**](http://www.farcotech.com/) | Robotics Engineer
 Brooklyn, NY | May 2012 – Jun 2015
 
   - Wrote unit testing code and peripheral driver libraries in C.
@@ -73,7 +73,7 @@ Brooklyn, NY | May 2012 – Jun 2015
   - Integrated and tested autonomous vehicle electronics and mechanisms.
   - Technologies used: Linear Filters, C, EDA, CAD, ARM, IMU, UART, I2C, CAN, Op Amps.
 
-# **Control/Robotics Research Lab at NYU** | Lab Manager
+# [**Control/Robotics Research Lab at NYU**](http://crrl.poly.edu/) | Lab Manager
 Brooklyn, NY | Jan 2014 – Jun 2015
 
   - Managed teaching and research lab equipment selection and purchasing.
@@ -81,7 +81,7 @@ Brooklyn, NY | Jan 2014 – Jun 2015
   - Coordinated lab availabilities, presented lab to prospective students/parents, and operated equipment demos.
   - Technologies used: Nao, LIDAR, Quadrotors, Quadrupeds, 4DoF Arm, Depth Camera.
 
-# **Control/Robotics Research Lab at NYU** | Teaching Assistant
+# [**Control/Robotics Research Lab at NYU**](http://crrl.poly.edu/) | Teaching Assistant
 Brooklyn, NY | Jan 2014 – Dec 2014
 
   - Planned and delivered student lectures on experimental procedures and theory.
@@ -89,16 +89,14 @@ Brooklyn, NY | Jan 2014 – Dec 2014
   - Conducted Feedback Control and Embedded Systems lab courses.
   - Technologies used: PID, Lead-Lag Controllers, C, Motors, Amplifiers, Encoders.
 
-
-
-# **City of Laconia** | Junior Network Administrator
+# [**City of Laconia**](http://www.cityoflaconianh.org/) | Junior Network Administrator
 Laconia, NH | Oct 2008 – Dec 2009
 
   - Administered, supported, and troubleshot Active Directory policy and permissions for local and remote sites.
   - Successfully managed full life cycle design and development of new City website.
   - Spearheaded development and implementation of policies, procedures and guidelines providing instruction on operation and usage of Web site’s content management system.
 
-# **US Navy** | Electronics Technician
+# [**US Navy**](http://www.navy.com/) | Electronics Technician
 Various Locations | Sep 2001 – Dec 2007
 
   - Performed installation, repair, and maintenance of communications equipment while supervising and mentoring teams of junior technicians.
@@ -108,7 +106,7 @@ Various Locations | Sep 2001 – Dec 2007
 ## Research <a name="research"></a>
 ---
 
-# **Control/Robotics Research Lab at NYU** | Brooklyn, NY
+# [**Control/Robotics Research Lab at NYU**](http://crrl.poly.edu/) | Brooklyn, NY
 Graduate Research Assistant | Jan 2014 – Jul 2015
 
   - Developed novel inverse kinematics crawling gait for Nao Humanoid Platform. 
