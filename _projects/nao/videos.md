@@ -7,6 +7,15 @@ title: "Nao - Videos"
 
 This video demonstrates the Projected Profile crawl gait, implemented on the Nao.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_EMkVPHipNc" frameborder="0" allowfullscreen></iframe>
+
+This video shows a simulation of the closed chain phase of the Projected Profile crawl gait with the knee and
+hip joints held at a fixed angle.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tv_1rmEGZQc" frameborder="0" allowfullscreen></iframe>
+
+This video shows a simulation of the closed chain phase of the Projected Profile crawl gait.
+The knee and hip joint angular trajectories were optimized to minimize joint torques.
+A genetic algorithm was used to optimize the trajectories.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wJV8-czZ2_I" frameborder="0" allowfullscreen></iframe>
 ---
 
 # IROS 2015
