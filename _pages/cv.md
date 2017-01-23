@@ -56,6 +56,9 @@ Rviz, Git, Github, V-REP, Virtualbox, LaTeX
 ## Experience <a name="experience"></a>
 ---
 
+# [**Neato Robotics**](https://www.neatorobotics.com/) | Robotics Software Engineer
+Newark, CA | July 2016 – Present
+
 # [**Fetch Robotics**](http://fetchrobotics.com/) | Robotics Engineer
 San Jose, CA | July 2015 – Apr 2016
 
