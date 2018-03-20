@@ -35,13 +35,13 @@ President's List
 ---
 
 # Programming
-C/C++, Python, Matlab
+C/C++, Python, Javascript, Matlab
 
 # Build Systems
-Catkin, CMake, Qibuild
+Catkin, CMake, Make, Qibuild, Jenkins, Travis
 
 # Operating Systems
-ROS, Linux, FreeRTOS
+ROS, Linux, QNX, FreeRTOS
 
 # Electronic Design
 EagleCAD, Circuit Design, PCB Design, SMD Soldering
@@ -50,7 +50,7 @@ EagleCAD, Circuit Design, PCB Design, SMD Soldering
 Solidworks, 3D Printing, Machining, Plastic Casting
 
 # Misc
-Rviz, Git, Github, V-REP, Virtualbox, LaTeX
+Rviz, V-REP, Gtest, Git, Github, Stash, Docker, Virtualbox, LaTeX, AWS
 
 
 ## Experience <a name="experience"></a>
@@ -58,6 +58,12 @@ Rviz, Git, Github, V-REP, Virtualbox, LaTeX
 
 # [**Neato Robotics**](https://www.neatorobotics.com/) | Robotics Software Engineer
 Newark, CA | July 2016 – Present
+
+- Improved docking reliability. Refactored infrastructure producing documented unit tested code. Implemented new features.
+- Evaluated multiple tof/stereo cameras. Recorded sample datasets used for technology selection. Interfaced with vendors on requirements.
+- Spearheaded automated on-robot testing program. Built infrastructure for fleet command and monitoring using existing cloud infrastructure.
+- Fulfilled team level release engineering duties. Tested incremental builds using testing on-robot program. Released builds to SQA, beta testers, and production.
+- Technologies used: LIDAR, C++, Python, Javascript, QNX, Git, Stash (Bitbucket), Jenkins, AWS, Gtest.
 
 # [**Fetch Robotics**](http://fetchrobotics.com/) | Robotics Engineer
 San Jose, CA | July 2015 – Apr 2016
