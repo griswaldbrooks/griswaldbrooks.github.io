@@ -56,6 +56,13 @@ Rviz, V-REP, Gtest, Git, Github, Stash, Docker, Virtualbox, LaTeX, AWS
 ## Experience <a name="experience"></a>
 ---
 
+# [**Bossa Nova Robotics**](http://bossanova.com/) | Senior Robotics Engineer
+Mountain View, CA | May 2018 - Present
+- Managed navigation team priorities and implemented agile workflow which increased team predictability.
+- Contributed to navigation refactoring effort and increased test coverage.
+- Formalized strategies for refactoring code to increase testability and promoted in robotics organization.
+- Created docker container for developers to use to reproduce robot environment and dependencies.
+
 # [**Neato Robotics**](https://www.neatorobotics.com/) | Robotics Software Engineer
 Newark, CA | July 2016 – May 2018
 
