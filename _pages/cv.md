@@ -57,7 +57,7 @@ Rviz, V-REP, Gtest, Git, Github, Stash, Docker, Virtualbox, LaTeX, AWS
 ---
 
 # [**Neato Robotics**](https://www.neatorobotics.com/) | Robotics Software Engineer
-Newark, CA | July 2016 – Present
+Newark, CA | July 2016 – May 2018
 
 - Improved docking reliability. Refactored infrastructure producing documented unit tested code. Implemented new features.
 - Evaluated multiple tof/stereo cameras. Recorded sample datasets used for technology selection. Interfaced with vendors on requirements.
