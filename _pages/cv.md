@@ -50,7 +50,7 @@ EagleCAD, Circuit Design, PCB Design, SMD Soldering
 Solidworks, 3D Printing, Machining, Plastic Casting
 
 # Misc
-Rviz, V-REP, Gtest, Git, Github, Stash, Docker, Virtualbox, LaTeX, AWS
+Rviz, V-REP, Stage, Gtest, Catch2, Git, Github, Stash, Docker, Virtualbox, LaTeX, AWS
 
 
 ## Experience <a name="experience"></a>
@@ -58,9 +58,9 @@ Rviz, V-REP, Gtest, Git, Github, Stash, Docker, Virtualbox, LaTeX, AWS
 
 # [**Bossa Nova Robotics**](http://bossanova.com/) | Senior Robotics Engineer
 Mountain View, CA | May 2018 - Present
-- Managed navigation team and implemented agile workflow which increased team predictability.
-- Contributed to navigation refactoring effort and increased test coverage.
-- Formalized strategies for refactoring code to increase testability and promoted in robotics organization.
+- Managed navigation team and implemented agile workflow, increasing team predictability.
+- Refactored navigation stack, increased test coverage, formalized refactor-for-test strategies.
+- Implemented stuck retry logic and other navigation improvements to reduce operator touch time and enable large scale robot deployment.
 - Created docker container for developers to use to reproduce robot environment and dependencies.
 
 # [**Neato Robotics**](https://www.neatorobotics.com/) | Robotics Software Engineer
