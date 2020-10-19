@@ -50,7 +50,7 @@ EagleCAD, Circuit Design, PCB Design, SMD Soldering
 Solidworks, 3D Printing, Machining, Plastic Casting
 
 # Misc
-Rviz, V-REP, Stage, Gtest, Catch2, Git, Github, Stash, Docker, Virtualbox, LaTeX, AWS
+Rviz, V-REP, Stage, Gtest, Catch2, Git, Github, Stash, Docker, Virtualbox, LaTeX, AWS, inOrbit, Optitrack
 
 
 ## Experience <a name="experience"></a>
@@ -58,10 +58,11 @@ Rviz, V-REP, Stage, Gtest, Catch2, Git, Github, Stash, Docker, Virtualbox, LaTeX
 
 # [**Bossa Nova Robotics**](http://bossanova.com/) | Senior Robotics Engineer
 Mountain View, CA | May 2018 - Present
-- Managed navigation team and implemented agile workflow, increasing team predictability.
-- Refactored navigation stack, increased test coverage, formalized refactor-for-test strategies.
-- Implemented stuck retry logic and other navigation improvements to reduce operator touch time and enable large scale robot deployment.
-- Created docker container for developers to use to reproduce robot environment and dependencies.
+- Led navigation stack refactor, improving test coverage and code quality. Formalized ROS-less programming strategies, producing faster and more robust tests.
+- Migrated next generation robot to more robust local planner, avoiding robot stuck situations and allowing navigation closer to obstacles.
+- Solved navigation field issues stemming from costmap race conditions, lingering state, goal mismatches, and trajectory critics. This supported the scaling of the fleet from 50 to 350 robots.
+- Designed and implemented navigation traceability and observability monitors enabling engineers to get targeted bag data of an event quickly, obviating the large downloads and manual correlation previously required.
+- Built ground truth label collection system, used to compare results to robot scans for experimental label detector. Reduced collection time from 30 to 8 minutes per aisle, requiring only one operator from two.
 
 # [**Neato Robotics**](https://www.neatorobotics.com/) | Robotics Software Engineer
 Newark, CA | July 2016 – May 2018
