@@ -35,13 +35,13 @@ President's List
 ---
 
 # Programming
-C/C++, Python, Javascript, Matlab
+C/C++, Python, Rust, Javascript, Matlab
 
 # Build Systems
-Catkin, CMake, Make, Qibuild, Jenkins, Travis
+Colcon, CMake, Github Actions, JFrog, Bitbucket, Jenkins 
 
 # Operating Systems
-ROS, Linux, QNX, FreeRTOS
+ROS2, Linux, QNX, FreeRTOS
 
 # Electronic Design
 EagleCAD, Circuit Design, PCB Design, SMD Soldering
@@ -50,19 +50,39 @@ EagleCAD, Circuit Design, PCB Design, SMD Soldering
 Solidworks, 3D Printing, Machining, Plastic Casting
 
 # Misc
-Rviz, V-REP, Stage, Gtest, Catch2, Git, Github, Stash, Docker, Virtualbox, LaTeX, AWS, inOrbit, Optitrack
+Rviz, V-REP, Stage, Gtest, Catch2, Git, Github, Stash, Conan, Docker, Virtualbox, LaTeX, AWS, inOrbit, Optitrack
 
+### Conferences and Professional Development
+---
+
+# CppCon Robotics Track Chair (2023)
+Chaired inaugural track. Responsibilities included soliciting talks, advising speakers, reviewing submissions, and scheduling the track.
 
 ## Experience <a name="experience"></a>
 ---
 
+# [**PickNik Robotics**](https://picknik.ai/) | Senior Robotics Engineer
+Boulder, CO | Fully Remote | Feb 2021 - Present
+
+- Led internal teams and individually contributed to multiple client contracts, including
+    - Technical lead for poultry monitoring mobile robot, improving navigation stack performance and reliability. Creating simulation testing infrastructure integrated into CI to prevent regression.
+    - Technical lead for medical patient tracking app. Integrated prototype indoor ultra-wideband positioning system.
+    - Developed terrain profile switching system for [Guanaquerx quadruped robot](https://www.guanaquerx.com/).
+    - Implemented image stitching node for stereo camera system on quadruped robot.
+    - Onsite support for strawberry picking robot. Travelled to client site and helped remote team with testing and collecting data. Troubleshot state machine and concurrency issues.
+    - Implemented continuous integration systems for autonomous truck unloading, medical robotics, construction robotics.
+- Mentored junior engineers on best practices and software design. Solicted CppCon Robotics Track submissions and assisted with presentation development.
+- Attended ROSCon (2022/2023) and promoted PickNik's runtime and developer platform, MoveIt Pro. 
+- Technologies used: C++, Python, Rust, ROS2, MoveIt2, Nav2, Git, Gtest, Catch2, GitHub Actions, Jfrog, Bitbucket, Gazebo
+
 # [**Bossa Nova Robotics**](http://bossanova.com/) | Senior Robotics Engineer
-Mountain View, CA | May 2018 - Present
+Mountain View, CA | May 2018 - Feb 2021
 - Led navigation stack refactor, improving test coverage and code quality. Formalized ROS-less programming strategies, producing faster and more robust tests.
 - Migrated next generation robot to more robust local planner, avoiding robot stuck situations and allowing navigation closer to obstacles.
 - Solved navigation field issues stemming from costmap race conditions, lingering state, goal mismatches, and trajectory critics. This supported the scaling of the fleet from 50 to 350 robots.
 - Designed and implemented navigation traceability and observability monitors enabling engineers to get targeted bag data of an event quickly, obviating the large downloads and manual correlation previously required.
 - Built ground truth label collection system, used to compare results to robot scans for experimental label detector. Reduced collection time from 30 to 8 minutes per aisle, requiring only one operator from two.
+- Technologies used: TOF/LIDAR, C++, Python, ROS, Git, Gtest, Jenkins, inOrbit, Optitrack
 
 # [**Neato Robotics**](https://www.neatorobotics.com/) | Robotics Software Engineer
 Newark, CA | July 2016 – May 2018
