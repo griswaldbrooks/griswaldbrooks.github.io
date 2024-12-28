@@ -29,7 +29,7 @@ favicon = "/images/favicon.ico"
 # url = "@/blog/_index.md"
 
 [[extra.main_menu]]
-name = "CV"
+name = "cv"
 url = "@/cv.md"
 
 # [[extra.main_menu]]
@@ -37,7 +37,7 @@ url = "@/cv.md"
 # url = "@/projects/_index.md"
 
 [[extra.main_menu]]
-name = "Publications"
+name = "publications"
 url = "@/publications.md"
 
 # derived from https://github.com/mr-karan/website
