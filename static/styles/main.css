@@ -74,6 +74,23 @@ a:hover {
     font-weight: 400;
 }
 
+.site-header {
+  display: flex;                /* Make header use flex layout */
+  align-items: center;          /* Vertically center the items */
+  justify-content: space-between; /* Push branding left, nav right */
+  margin-bottom: 20px;          /* Optional spacing below header */
+}
+
+.branding a {
+  text-decoration: none;
+  color: inherit; /* So the <a> uses the same text color as the h1 */
+}
+
+.branding h1 {
+  margin: 0;      /* Remove extra default margin */
+  font-size: 36px; /* Example size; adjust as you wish */
+}
+
 nav {
     display: flex;
     justify-content: space-between;

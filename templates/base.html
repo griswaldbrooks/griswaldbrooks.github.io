@@ -46,31 +46,29 @@
 </head>
 
 <body>
-<header>
-    <a href="{{ config.base_url | safe }}" class="title">
-      <div class="titley">
-        <div class="branding">
-          <!-- <img src="/images/serve_game1.png"> -->
-          <h1>{{ config.title }}</h1>
-        </div>
-      </div>
-    </a>
+<header class="site-header">
+    <div class="branding">
+      <a href="{{ config.base_url | safe }}" class="title">
+        <!-- <img src="/images/serve_game1.png"> -->
+        <h1>{{ config.title }}</h1>
+      </a>
+    </div>
     <nav>
-        <div class="nav-items">
-            <a href="{{ config.base_url | safe }}">Home</a>
-            {%- if config.extra.main_menu %}
-            {%- for item in config.extra.main_menu %}
-            {%- if item.url is matching("https?://") %}
+      <div class="nav-items">
+        <a href="{{ config.base_url | safe }}">Home</a>
+        {%- if config.extra.main_menu %}
+        {%- for item in config.extra.main_menu %}
+          {%- if item.url is matching("https?://") %}
             <a href="{{ item.url | safe }}">{{ item.name | safe }}</a>
-            {%- else %}
+          {%- else %}
             <a href="{{ get_url(path=item.url ) | safe }}">{{ item.name | safe }}</a>
-            {%- endif %}
-            {%- endfor %}
-            {%- endif -%}
-        </div>
-        <button class="theme-toggle" title="Toggle Dark Mode">
-            <i data-feather="moon"></i>
-        </button>
+          {%- endif %}
+        {%- endfor %}
+        {%- endif -%}
+      </div>
+      <button class="theme-toggle" title="Toggle Dark Mode">
+        <i data-feather="moon"></i>
+      </button>
     </nav>
 </header>
 {% block main %}{%- endblock -%}
