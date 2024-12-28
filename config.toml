@@ -10,6 +10,7 @@ build_search_index = false
 
 taxonomies = [
   {name = "tags", feed = true},
+  {name = "categories" },
 ]
 
 [markdown]
@@ -24,16 +25,16 @@ date_format="%d %b, %Y"
 favicon = "/images/favicon.ico"
 
 # [[extra.main_menu]]
-# name = "About"
-# url = "@/about.md"
+# name = "Blog"
+# url = "@/blog/_index.md"
 
 [[extra.main_menu]]
 name = "CV"
 url = "@/cv.md"
 
-[[extra.main_menu]]
-name = "Projects"
-url = "@/projects.md"
+# [[extra.main_menu]]
+# name = "Projects"
+# url = "@/projects/_index.md"
 
 [[extra.main_menu]]
 name = "Publications"
