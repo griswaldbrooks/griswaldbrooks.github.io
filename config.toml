@@ -1,6 +1,6 @@
 # The URL the site will be built for
-base_url = "https://boardgamenightwg.com"
-title = "Board Game Night Working Group"
+base_url = "https://griswaldbrooks.com"
+title = "Griswald Brooks"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -21,30 +21,22 @@ render_emoji = true
 smart_punctuation = true
 [extra]
 date_format="%d %b, %Y"
-favicon = "/images/favicon.png"
+favicon = "/images/favicon.ico"
 
 [[extra.main_menu]]
-name = "Bay Area"
-url = "@/bayarea.md"
+name = "About"
+url = "@/about.md"
 
 [[extra.main_menu]]
-name = "Boston"
-url = "@/boston.md"
+name = "CV"
+url = "@/cv.md"
 
 [[extra.main_menu]]
-name = "Past Events"
-url = "@/pastevents.md"
+name = "Projects"
+url = "@/projects.md"
 
 [[extra.main_menu]]
-name = "FAQ"
-url = "@/faq.md"
-
-# [[extra.main_menu]]
-# name = "About"
-# url = "@/about.md"
-
-# [[extra.main_menu]]
-# name = "Contact"
-# url = "@/contact.md"
+name = "Publications"
+url = "@/publications.md"
 
 # derived from https://github.com/mr-karan/website
