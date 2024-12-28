@@ -1,5 +1,5 @@
 +++
-title = "🪶 Publications"
+title = "🪶 publications"
 +++
 
 - [G. Brooks, P. Krishnamurthy and F. Khorrami, **“Low-profile crawling for humanoid motion in tight

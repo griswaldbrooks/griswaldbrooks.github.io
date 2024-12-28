@@ -1,5 +1,5 @@
 +++
-title = "📖 CV"
+title = "📖 cv"
 +++
 [Download Resume](/files/Griswald-Brooks-Resume.pdf)
 
@@ -13,17 +13,17 @@ title = "📖 CV"
 
 # [NYU School of Engineering](http://engineering.nyu.edu/)
 
-Masters of Science in Electrical Engineering  
-May 2015 | Brooklyn, NY  
+Masters of Science in Electrical Engineering
+May 2015 | Brooklyn, NY
 Concentration in Controls and Robotics
 
-Bachelors of Science in Computer Engineering  
-May 2013 | Brooklyn, NY  
+Bachelors of Science in Computer Engineering
+May 2013 | Brooklyn, NY
 Cum Laude
 
 # [Lakes Region Community College](http://www.lrcc.edu/)
-Associate of Science in Computer Technologies  
-Dec 2009 |  Laconia, NH  
+Associate of Science in Computer Technologies
+Dec 2009 |  Laconia, NH
 President's List
 
 
@@ -34,7 +34,7 @@ President's List
 C/C++, Python, Rust, Javascript, Matlab
 
 # Build Systems
-Colcon, CMake, Github Actions, JFrog, Bitbucket, Jenkins 
+Colcon, CMake, Github Actions, JFrog, Bitbucket, Jenkins
 
 # Operating Systems
 ROS2, Linux, QNX, FreeRTOS
@@ -68,7 +68,7 @@ Boulder, CO | Fully Remote | Feb 2021 - Present
     - Onsite support for strawberry picking robot. Travelled to client site and helped remote team with testing and collecting data. Troubleshot state machine and concurrency issues.
     - Implemented continuous integration systems for autonomous truck unloading, medical robotics, construction robotics.
 - Mentored junior engineers on best practices and software design. Solicted CppCon Robotics Track submissions and assisted with presentation development.
-- Attended ROSCon (2022/2023) and promoted PickNik's runtime and developer platform, MoveIt Pro. 
+- Attended ROSCon (2022/2023) and promoted PickNik's runtime and developer platform, MoveIt Pro.
 - Technologies used: C++, Python, Rust, ROS2, MoveIt2, Nav2, Git, Gtest, Catch2, GitHub Actions, Jfrog, Bitbucket, Gazebo
 
 # [**Bossa Nova Robotics**](http://bossanova.com/) | Senior Robotics Engineer
@@ -143,17 +143,8 @@ Various Locations | Sep 2001 – Dec 2007
 # [**Control/Robotics Research Lab at NYU**](http://crrl.poly.edu/) | Brooklyn, NY
 Graduate Research Assistant | Jan 2014 – Jul 2015
 
-  - Developed novel inverse kinematics crawling gait for Nao Humanoid Platform. 
-  - Implemented cost-based potential field navigation using LIDAR mounted on Nao. 
+  - Developed novel inverse kinematics crawling gait for Nao Humanoid Platform.
+  - Implemented cost-based potential field navigation using LIDAR mounted on Nao.
   - Wrote gradient descent-based inverse kinematics solver for out-of-workspace end effector pose objectives.
   - Implemented basic object detection and classification regressors using low-cost LIDAR.
   - Technologies used: Inverse Kinematics, Numerical Optimization, Potential Field Navigation, Linear Regression, C++, Matlab, Python, LIDAR, Sonar, Nao.
-
-
-
-
-
-
-
-
-
