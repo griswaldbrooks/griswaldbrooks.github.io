@@ -23,9 +23,9 @@ smart_punctuation = true
 date_format="%d %b, %Y"
 favicon = "/images/favicon.ico"
 
-[[extra.main_menu]]
-name = "About"
-url = "@/about.md"
+# [[extra.main_menu]]
+# name = "About"
+# url = "@/about.md"
 
 [[extra.main_menu]]
 name = "CV"

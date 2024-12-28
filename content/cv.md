@@ -1,25 +1,159 @@
 +++
-title = "🌅🌉 Bay Area"
+title = "📖 CV"
 +++
-<!--If the venue for the month does not have a serviceable logo to use here consider omitting or using /images/bayarea/trolleyproblem.png as a place holder-->
+[Download Resume](/files/Griswald-Brooks-Resume.pdf)
+
+* [Education](#education)
+* [Skills](#skills)
+* [Experience](#experience)
+* [Research](#research)
+
+## Education <a name="education"></a>
+---
+
+# [NYU School of Engineering](http://engineering.nyu.edu/)
+
+Masters of Science in Electrical Engineering  
+May 2015 | Brooklyn, NY  
+Concentration in Controls and Robotics
+
+Bachelors of Science in Computer Engineering  
+May 2013 | Brooklyn, NY  
+Cum Laude
+
+# [Lakes Region Community College](http://www.lrcc.edu/)
+Associate of Science in Computer Technologies  
+Dec 2009 |  Laconia, NH  
+President's List
 
 
-## Where
-<a href="https://www.intrinsic.ai/">![venue logo](/images/logos/intrinsic_logo.jpeg)</a> \
+## Skills <a name="skills"></a>
+---
 
-Intrinsic AI \
-Google Building RLS2 \
-250 Mayfield Ave \
-Mountain View, CA 94043 \
+# Programming
+C/C++, Python, Rust, Javascript, Matlab
 
-Please RSVP using the form below and share the names of each person who will attend in the "Names" area separated by commas because the Intrinsic is required to print a badge for each attendee. If you do so you won't have to wait in line waiting to get your badge printed.
+# Build Systems
+Colcon, CMake, Github Actions, JFrog, Bitbucket, Jenkins 
 
-## When
-December 13th 2024 @ 5:30 pm
+# Operating Systems
+ROS2, Linux, QNX, FreeRTOS
 
-## RSVP
-<a href="https://forms.gle/rvBVaqq7WMUWa1GP9">RSVP Google Form</a>
+# Electronic Design
+EagleCAD, Circuit Design, PCB Design, SMD Soldering
 
-## Access
+# Mechanical Design
+Solidworks, 3D Printing, Machining, Plastic Casting
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1045.4589749681054!2d-122.10592927520115!3d37.40787896590809!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb0a048c1bf45%3A0xe8728bfe8b72b330!2sGoogle%20Building%20RLS2%2C%20250%20Mayfield%20Ave%2C%20Mountain%20View%2C%20CA%2094043!5e0!3m2!1sen!2sus!4v1732153139760!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+# Misc
+Rviz, V-REP, Stage, Gtest, Catch2, Git, Github, Stash, Conan, Docker, Virtualbox, LaTeX, AWS, inOrbit, Optitrack
+
+### Conferences and Professional Development
+---
+
+# CppCon Robotics Track Chair (2023)
+Chaired inaugural track. Responsibilities included soliciting talks, advising speakers, reviewing submissions, and scheduling the track.
+
+## Experience <a name="experience"></a>
+---
+
+# [**PickNik Robotics**](https://picknik.ai/) | Senior Robotics Engineer
+Boulder, CO | Fully Remote | Feb 2021 - Present
+
+- Led internal teams and individually contributed to multiple client contracts, including
+    - Technical lead for poultry monitoring mobile robot, improving navigation stack performance and reliability. Creating simulation testing infrastructure integrated into CI to prevent regression.
+    - Technical lead for medical patient tracking app. Integrated prototype indoor ultra-wideband positioning system.
+    - Developed terrain profile switching system for [Guanaquerx quadruped robot](https://www.guanaquerx.com/).
+    - Implemented image stitching node for stereo camera system on quadruped robot.
+    - Onsite support for strawberry picking robot. Travelled to client site and helped remote team with testing and collecting data. Troubleshot state machine and concurrency issues.
+    - Implemented continuous integration systems for autonomous truck unloading, medical robotics, construction robotics.
+- Mentored junior engineers on best practices and software design. Solicted CppCon Robotics Track submissions and assisted with presentation development.
+- Attended ROSCon (2022/2023) and promoted PickNik's runtime and developer platform, MoveIt Pro. 
+- Technologies used: C++, Python, Rust, ROS2, MoveIt2, Nav2, Git, Gtest, Catch2, GitHub Actions, Jfrog, Bitbucket, Gazebo
+
+# [**Bossa Nova Robotics**](http://bossanova.com/) | Senior Robotics Engineer
+Mountain View, CA | May 2018 - Feb 2021
+- Led navigation stack refactor, improving test coverage and code quality. Formalized ROS-less programming strategies, producing faster and more robust tests.
+- Migrated next generation robot to more robust local planner, avoiding robot stuck situations and allowing navigation closer to obstacles.
+- Solved navigation field issues stemming from costmap race conditions, lingering state, goal mismatches, and trajectory critics. This supported the scaling of the fleet from 50 to 350 robots.
+- Designed and implemented navigation traceability and observability monitors enabling engineers to get targeted bag data of an event quickly, obviating the large downloads and manual correlation previously required.
+- Built ground truth label collection system, used to compare results to robot scans for experimental label detector. Reduced collection time from 30 to 8 minutes per aisle, requiring only one operator from two.
+- Technologies used: TOF/LIDAR, C++, Python, ROS, Git, Gtest, Jenkins, inOrbit, Optitrack
+
+# [**Neato Robotics**](https://www.neatorobotics.com/) | Robotics Software Engineer
+Newark, CA | July 2016 – May 2018
+
+- Improved docking reliability. Refactored infrastructure producing documented unit tested code. Implemented new features.
+- Evaluated multiple tof/stereo cameras. Recorded sample datasets used for technology selection. Interfaced with vendors on requirements.
+- Spearheaded automated on-robot testing program. Built infrastructure for fleet command and monitoring using existing cloud infrastructure.
+- Fulfilled team level release engineering duties. Tested incremental builds using testing on-robot program. Released builds to SQA, beta testers, and production.
+- Technologies used: LIDAR, C++, Python, Javascript, QNX, Git, Stash (Bitbucket), Jenkins, AWS, Gtest.
+
+# [**Fetch Robotics**](http://fetchrobotics.com/) | Robotics Engineer
+San Jose, CA | July 2015 – Apr 2016
+
+- Developed algorithms for LIDAR-based tracking of people and mobile robots using EKF.
+- Authored dynamically loadable modular EKF library using ROS pluginlib.
+- Increased robustness of robot charge docking system through improvements in perception, navigation, and recovery behaviors.
+- Conducted peer code reviews and maintained code base using git and github tools.
+- Technologies used: Computational Geometry, EKF, C++, Python, ROS, Git, LIDAR.
+
+# [**Farco Technologies**](http://www.farcotech.com/) | Robotics Engineer
+Brooklyn, NY | May 2012 – Jun 2015
+
+  - Wrote unit testing code and peripheral driver libraries in C.
+  - Designed proprietary autopilot systems using EDA software used for multiple autonomous vehicles.
+  - Designed chassis, shells, and housings in Solidworks and had them produced using multiple rapid prototyping and traditional machining techniques.
+  - Integrated and tested autonomous vehicle electronics and mechanisms.
+  - Technologies used: Linear Filters, C, EDA, CAD, ARM, IMU, UART, I2C, CAN, Op Amps.
+
+# [**Control/Robotics Research Lab at NYU**](http://crrl.poly.edu/) | Lab Manager
+Brooklyn, NY | Jan 2014 – Jun 2015
+
+  - Managed teaching and research lab equipment selection and purchasing.
+  - Assembled and repaired lab electronics related to robotics research.
+  - Coordinated lab availabilities, presented lab to prospective students/parents, and operated equipment demos.
+  - Technologies used: Nao, LIDAR, Quadrotors, Quadrupeds, 4DoF Arm, Depth Camera.
+
+# [**Control/Robotics Research Lab at NYU**](http://crrl.poly.edu/) | Teaching Assistant
+Brooklyn, NY | Jan 2014 – Dec 2014
+
+  - Planned and delivered student lectures on experimental procedures and theory.
+  - Administered experiments, graded student reports, and wrote lab final examinations.
+  - Conducted Feedback Control and Embedded Systems lab courses.
+  - Technologies used: PID, Lead-Lag Controllers, C, Motors, Amplifiers, Encoders.
+
+# [**City of Laconia**](http://www.cityoflaconianh.org/) | Junior Network Administrator
+Laconia, NH | Oct 2008 – Dec 2009
+
+  - Administered, supported, and troubleshot Active Directory policy and permissions for local and remote sites.
+  - Successfully managed full life cycle design and development of new City website.
+  - Spearheaded development and implementation of policies, procedures and guidelines providing instruction on operation and usage of Web site’s content management system.
+
+# [**US Navy**](http://www.navy.com/) | Electronics Technician
+Various Locations | Sep 2001 – Dec 2007
+
+  - Performed installation, repair, and maintenance of communications equipment while supervising and mentoring teams of junior technicians.
+  - Drove design and development of wireless LAN comprised of seven access points and three gateways.
+  - Played crucial role in design, testing and implementation of unicast and multicast protocols via a satellite WAN.
+
+## Research <a name="research"></a>
+---
+
+# [**Control/Robotics Research Lab at NYU**](http://crrl.poly.edu/) | Brooklyn, NY
+Graduate Research Assistant | Jan 2014 – Jul 2015
+
+  - Developed novel inverse kinematics crawling gait for Nao Humanoid Platform. 
+  - Implemented cost-based potential field navigation using LIDAR mounted on Nao. 
+  - Wrote gradient descent-based inverse kinematics solver for out-of-workspace end effector pose objectives.
+  - Implemented basic object detection and classification regressors using low-cost LIDAR.
+  - Technologies used: Inverse Kinematics, Numerical Optimization, Potential Field Navigation, Linear Regression, C++, Matlab, Python, LIDAR, Sonar, Nao.
+
+
+
+
+
+
+
+
+
