@@ -1,0 +1,9 @@
+public/
+build/
+install/
+log/
+.vscode/
+elsie-cache/
+__pycache__/
+.DS_store
+.swp
