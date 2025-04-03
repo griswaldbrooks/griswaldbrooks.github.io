@@ -56,13 +56,13 @@ Chaired track. Responsibilities included soliciting talks, advising speakers, re
 
 # Patents & Intellectual Property
 
-- **Conversion of cleaning robot camera images to floorplan for user interaction**  
-  *U.S. Patent No. 10,638,906 B2 (Granted May 5, 2020)*  
+- **Conversion of cleaning robot camera images to floorplan for user interaction**
+  *U.S. Patent No. 10,638,906 B2 (Granted May 5, 2020)*
   Method for projecting and stitching images captured from robot vacuum onto a map of a user's floor.
 
-- **Asynchronous Image Classification**  
-  *Patent Application Pending, US 2018/0348783 A1 (Filed May 31, 2017)*  
-  Method for using off-robot processing to classify unidentified obstacles which are later added to the map. 
+- **Asynchronous Image Classification**
+  *Patent Application Pending, US 2018/0348783 A1 (Filed May 31, 2017)*
+  Method for using off-robot processing to classify unidentified obstacles which are later added to the map.
 
 # Experience <a name="experience"></a>
 ---
