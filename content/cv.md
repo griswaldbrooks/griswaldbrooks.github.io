@@ -8,10 +8,10 @@ title = "📖 cv"
 * [Experience](#experience)
 * [Research](#research)
 
-## Education <a name="education"></a>
+# Education <a name="education"></a>
 ---
 
-# [NYU School of Engineering](http://engineering.nyu.edu/)
+## [NYU School of Engineering](http://engineering.nyu.edu/)
 
 Masters of Science in Electrical Engineering
 May 2015 | Brooklyn, NY
@@ -21,43 +21,53 @@ Bachelors of Science in Computer Engineering
 May 2013 | Brooklyn, NY
 Cum Laude
 
-# [Lakes Region Community College](http://www.lrcc.edu/)
+## [Lakes Region Community College](http://www.lrcc.edu/)
 Associate of Science in Computer Technologies
 Dec 2009 |  Laconia, NH
 President's List
 
 
-## Skills <a name="skills"></a>
+# Skills <a name="skills"></a>
 ---
 
-# Programming
+## Programming
 C/C++, Python, Rust, Javascript, Matlab
 
-# Build Systems
+## Build Systems
 Colcon, CMake, Github Actions, JFrog, Bitbucket, Jenkins
 
-# Operating Systems
+## Operating Systems
 ROS2, Linux, QNX, FreeRTOS
 
-# Electronic Design
+## Electronic Design
 EagleCAD, Circuit Design, PCB Design, SMD Soldering
 
-# Mechanical Design
+## Mechanical Design
 Solidworks, 3D Printing, Machining, Plastic Casting
 
-# Misc
+## Misc
 Rviz, V-REP, Stage, Gtest, Catch2, Git, Github, Stash, Conan, Docker, Virtualbox, LaTeX, AWS, inOrbit, Optitrack
 
-### Conferences and Professional Development
+# Conferences and Professional Development
 ---
 
-# CppCon Robotics Track Chair (2023)
-Chaired inaugural track. Responsibilities included soliciting talks, advising speakers, reviewing submissions, and scheduling the track.
+## CppCon Robotics and AI Track Chair (2023-2025)
+Chaired track. Responsibilities included soliciting talks, advising speakers, reviewing submissions, and scheduling the track.
 
-## Experience <a name="experience"></a>
+# Patents & Intellectual Property
+
+- **Conversion of cleaning robot camera images to floorplan for user interaction**  
+  *U.S. Patent No. 10,638,906 B2 (Granted May 5, 2020)*  
+  Method for projecting and stitching images captured from robot vacuum onto a map of a user's floor.
+
+- **Asynchronous Image Classification**  
+  *Patent Application Pending, US 2018/0348783 A1 (Filed May 31, 2017)*  
+  Method for using off-robot processing to classify unidentified obstacles which are later added to the map. 
+
+# Experience <a name="experience"></a>
 ---
 
-# [**PickNik Robotics**](https://picknik.ai/) | Senior Robotics Engineer
+## [**PickNik Robotics**](https://picknik.ai/) | Senior Robotics Engineer
 Boulder, CO | Fully Remote | Feb 2021 - Present
 
 - Led internal teams and individually contributed to multiple client contracts, including
@@ -71,7 +81,7 @@ Boulder, CO | Fully Remote | Feb 2021 - Present
 - Attended ROSCon (2022/2023) and promoted PickNik's runtime and developer platform, MoveIt Pro.
 - Technologies used: C++, Python, Rust, ROS2, MoveIt2, Nav2, Git, Gtest, Catch2, GitHub Actions, Jfrog, Bitbucket, Gazebo
 
-# [**Bossa Nova Robotics**](http://bossanova.com/) | Senior Robotics Engineer
+## [**Bossa Nova Robotics**](http://bossanova.com/) | Senior Robotics Engineer
 Mountain View, CA | May 2018 - Feb 2021
 - Led navigation stack refactor, improving test coverage and code quality. Formalized ROS-less programming strategies, producing faster and more robust tests.
 - Migrated next generation robot to more robust local planner, avoiding robot stuck situations and allowing navigation closer to obstacles.
@@ -80,7 +90,7 @@ Mountain View, CA | May 2018 - Feb 2021
 - Built ground truth label collection system, used to compare results to robot scans for experimental label detector. Reduced collection time from 30 to 8 minutes per aisle, requiring only one operator from two.
 - Technologies used: TOF/LIDAR, C++, Python, ROS, Git, Gtest, Jenkins, inOrbit, Optitrack
 
-# [**Neato Robotics**](https://www.neatorobotics.com/) | Robotics Software Engineer
+## [**Neato Robotics**](https://www.neatorobotics.com/) | Robotics Software Engineer
 Newark, CA | July 2016 – May 2018
 
 - Improved docking reliability. Refactored infrastructure producing documented unit tested code. Implemented new features.
@@ -89,7 +99,7 @@ Newark, CA | July 2016 – May 2018
 - Fulfilled team level release engineering duties. Tested incremental builds using testing on-robot program. Released builds to SQA, beta testers, and production.
 - Technologies used: LIDAR, C++, Python, Javascript, QNX, Git, Stash (Bitbucket), Jenkins, AWS, Gtest.
 
-# [**Fetch Robotics**](http://fetchrobotics.com/) | Robotics Engineer
+## [**Fetch Robotics**](http://fetchrobotics.com/) | Robotics Engineer
 San Jose, CA | July 2015 – Apr 2016
 
 - Developed algorithms for LIDAR-based tracking of people and mobile robots using EKF.
@@ -98,7 +108,7 @@ San Jose, CA | July 2015 – Apr 2016
 - Conducted peer code reviews and maintained code base using git and github tools.
 - Technologies used: Computational Geometry, EKF, C++, Python, ROS, Git, LIDAR.
 
-# [**Farco Technologies**](http://www.farcotech.com/) | Robotics Engineer
+## [**Farco Technologies**](http://www.farcotech.com/) | Robotics Engineer
 Brooklyn, NY | May 2012 – Jun 2015
 
   - Wrote unit testing code and peripheral driver libraries in C.
@@ -107,7 +117,7 @@ Brooklyn, NY | May 2012 – Jun 2015
   - Integrated and tested autonomous vehicle electronics and mechanisms.
   - Technologies used: Linear Filters, C, EDA, CAD, ARM, IMU, UART, I2C, CAN, Op Amps.
 
-# [**Control/Robotics Research Lab at NYU**](http://crrl.poly.edu/) | Lab Manager
+## [**Control/Robotics Research Lab at NYU**](http://crrl.poly.edu/) | Lab Manager
 Brooklyn, NY | Jan 2014 – Jun 2015
 
   - Managed teaching and research lab equipment selection and purchasing.
@@ -115,7 +125,7 @@ Brooklyn, NY | Jan 2014 – Jun 2015
   - Coordinated lab availabilities, presented lab to prospective students/parents, and operated equipment demos.
   - Technologies used: Nao, LIDAR, Quadrotors, Quadrupeds, 4DoF Arm, Depth Camera.
 
-# [**Control/Robotics Research Lab at NYU**](http://crrl.poly.edu/) | Teaching Assistant
+## [**Control/Robotics Research Lab at NYU**](http://crrl.poly.edu/) | Teaching Assistant
 Brooklyn, NY | Jan 2014 – Dec 2014
 
   - Planned and delivered student lectures on experimental procedures and theory.
@@ -123,24 +133,24 @@ Brooklyn, NY | Jan 2014 – Dec 2014
   - Conducted Feedback Control and Embedded Systems lab courses.
   - Technologies used: PID, Lead-Lag Controllers, C, Motors, Amplifiers, Encoders.
 
-# [**City of Laconia**](http://www.cityoflaconianh.org/) | Junior Network Administrator
+## [**City of Laconia**](http://www.cityoflaconianh.org/) | Junior Network Administrator
 Laconia, NH | Oct 2008 – Dec 2009
 
   - Administered, supported, and troubleshot Active Directory policy and permissions for local and remote sites.
   - Successfully managed full life cycle design and development of new City website.
   - Spearheaded development and implementation of policies, procedures and guidelines providing instruction on operation and usage of Web site’s content management system.
 
-# [**US Navy**](http://www.navy.com/) | Electronics Technician
+## [**US Navy**](http://www.navy.com/) | Electronics Technician
 Various Locations | Sep 2001 – Dec 2007
 
   - Performed installation, repair, and maintenance of communications equipment while supervising and mentoring teams of junior technicians.
   - Drove design and development of wireless LAN comprised of seven access points and three gateways.
   - Played crucial role in design, testing and implementation of unicast and multicast protocols via a satellite WAN.
 
-## Research <a name="research"></a>
+# Research <a name="research"></a>
 ---
 
-# [**Control/Robotics Research Lab at NYU**](http://crrl.poly.edu/) | Brooklyn, NY
+## [**Control/Robotics Research Lab at NYU**](http://crrl.poly.edu/) | Brooklyn, NY
 Graduate Research Assistant | Jan 2014 – Jul 2015
 
   - Developed novel inverse kinematics crawling gait for Nao Humanoid Platform.
